@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("/img/405-4056744_anime-background-07-cenario-no-game-no-life.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin: 30pt;
+    font-size: xx-large;
+}
+
+.instrucciones{
+    background-color: white;
+    margin: 10%;
+    padding: 20pt;
+    border: 2pt;
+    border-radius: 15pt;
+}
+
+.boton{
+    background-color: yellow;
+    padding: 10pt;
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    border: 3pt;
+    border-color: white;
+    border-style: solid;
+    border-radius: 15pt;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
